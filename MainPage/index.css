@@ -1,0 +1,64 @@
+html{
+    background-color: rgb(15, 15, 15);
+    font-family: sans-serif;
+    color: white;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    color: rgb(121, 0, 121);
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: x-large;
+    bottom: 35%;
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    bottom: 35%;
+}
+
+#Youtube{
+    transform: translateX(13%);
+}
+
+#Redirection{
+    background-color: rgba(0, 0, 0, 0.432);
+    color: white;
+    font-size: large;
+    border-color: rgba(0, 0, 0, 0.425);
+    border-radius: 25%,25%,25%,25%;
+}
+
+.Pages{
+    text-align: center;  
+    width: 100%;  
+    height: 100px;  
+}
+
+#Invisible{
+    color: rgba(0, 0, 0, 0);
+}
+
+#Content{
+    background-color: rgb(26, 26, 26);
+}
+
+img{
+    transform: translateX(30%);
+}
+
+#Itchio{
+    text-align: center;
+}
